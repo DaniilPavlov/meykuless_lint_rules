@@ -1,0 +1,1 @@
+Example for debugging my package lints ruleset `package:meykuless_lint_rules/rules.yaml`
