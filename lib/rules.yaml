@@ -99,7 +99,6 @@ linter:
     avoid_js_rounded_ints: true
     avoid_multiple_declarations_per_line: true
     avoid_null_checks_in_equality_operators: true
-    avoid_positional_boolean_parameters: true
     avoid_private_typedef_functions: true
     avoid_redundant_argument_values: true
     avoid_renaming_method_parameters: true
@@ -167,7 +166,6 @@ linter:
     prefer_asserts_with_message: false
     prefer_collection_literals: true
     prefer_conditional_assignment: true
-    prefer_constructors_over_static_methods: true
     prefer_contains: true
     prefer_double_quotes: false
     prefer_expression_function_bodies: false
